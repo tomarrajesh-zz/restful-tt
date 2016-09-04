@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+	<user id="1"	NAME="SAMY"	AGE="20"		SALARY="20000"	/>
+	<user id="2"	NAME="TOMY"	AGE="20"		SALARY="23000"	/>
+</dataset>
